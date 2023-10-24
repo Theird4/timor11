@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://lawastoto.xy2401.com/sitemap.xml
